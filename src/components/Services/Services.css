@@ -1,0 +1,20 @@
+.single-card {
+  width: 350px;
+  height: 570px;
+  text-align: left;
+  margin: 20px;
+  border-radius: 15px;
+  transition: 300ms;
+}
+.card-text {
+  color: black !important;
+}
+.single-card:hover {
+  -webkit-box-shadow: 5px 5px 15px 5px #f17420;
+  box-shadow: 5px 5px 15px 5px #e79110;
+  transform: translateY(-0.5rem);
+}
+.card-pic {
+  width: 350px;
+  height: 400px;
+}

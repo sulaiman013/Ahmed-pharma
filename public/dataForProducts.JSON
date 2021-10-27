@@ -1,0 +1,57 @@
+[
+    {"key": "1",
+     "Title":"Sergel 20",
+     "Image":"https://cdn.osudpotro.com/thumb/medicine/sergel-20-mg-1631528299689.webp?w=256",
+     "Type":"Capsule",
+    "Company":"Healthcare Pharmaceuticals Limited.",
+    "Price": "6.65"},
+
+    {"key": "2",
+     "Title":"Azyth 500",
+     "Image":"https://cdn.osudpotro.com/thumb/medicine/azyth-500-1629804200698.webp?w=256",
+     "Type":"Tablet",
+    "Company":"Sandoz Bangladesh Limited.",
+    "Price": "53.00"},
+
+    {"key": "3",
+     "Title":"Moxaclav 625",
+     "Image":"https://cdn.osudpotro.com/thumb/medicine/2240-removebg-preview1-1630140926052.webp?w=256",
+     "Type":"Tablet",
+    "Company":"Square Pharmaceuticals Limited.",
+    "Price": "32.00"},
+
+    {"key": "4",
+     "Title":"Napa Extra",
+     "Image":"https://cdn.osudpotro.com/thumb/medicine/napa-extra-1630001325835-removebg-preview-1630562777966.webp?w=256",
+     "Type":"Tablet",
+    "Company":"Beximco Pharmaceuticals Limited.",
+    "Price": "10.00"},
+
+    {"key": "5",
+     "Title":"Brodil 4",
+     "Image":"https://cdn.osudpotro.com/thumb/medicine/brodil-4-1631604326642.webp?w=256",
+     "Type":"Tablet",
+    "Company":"ACI Limited.",
+    "Price": "5.00"},
+
+    {"key": "6",
+     "Title":"Ace 500",
+     "Image":"https://cdn.osudpotro.com/thumb/medicine/ace-500-1631364310354.webp?w=256",
+     "Type":"Tablet",
+    "Company":"Square Pharmaceuticals Limited.",
+    "Price": "15.00"},
+
+    {"key": "7",
+     "Title":"Losectil 20",
+     "Image":"https://cdn.osudpotro.com/thumb/medicine/4d606edc133a-2019-07-06-122647070549losectil-20-mg-box-of-100-cacules-100-box-1629778805439.webp?w=256",
+     "Type":"Capsule",
+    "Company":"SK+F.",
+    "Price": "50.65"},
+
+    {"key": "8",
+     "Title":"Seclo 20",
+     "Image":"https://cdn.osudpotro.com/thumb/medicine/whatsapp-image-2021-08-28-at-111255-am-removebg-preview-1630128526048.webp?w=256",
+     "Type":"Capsule",
+    "Company":"Square Pharmaceuticals Limited.",
+    "Price": "112.80"}
+    ]

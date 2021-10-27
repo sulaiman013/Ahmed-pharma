@@ -1,0 +1,36 @@
+.nav-bg {
+  background-color: white;
+}
+.nav-link {
+  margin-left: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 18px;
+  font-weight: 600;
+  color: black !important;
+}
+.nav-link:focus {
+  border-bottom: 3px solid burlywood;
+  transition: ease-in-out 100ms;
+}
+.nav-logo {
+  margin-left: 15px;
+  font-size: 20px;
+  font-weight: 900;
+  letter-spacing: 5px;
+  color: rgb(55, 137, 175) !important;
+}
+.nav-logo2 {
+  border: 2px solid rgb(245, 233, 211);
+  border-radius: 20%;
+}
+@media only screen and (max-width: 600px) {
+  .nav-logo {
+    font-size: 15px;
+    letter-spacing: 2px;
+  }
+  .nav-logo2 {
+    width: 70px;
+  }
+}

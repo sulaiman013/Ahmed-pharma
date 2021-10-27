@@ -1,0 +1,37 @@
+.info {
+  display: flex;
+  justify-content: center;
+}
+.single-card-2 {
+  width: 750px;
+  height: auto;
+  text-align: left;
+  margin: 20px;
+  border-radius: 15px;
+  transition: 300ms;
+}
+.card-text-2 {
+  color: black !important;
+}
+.single-card-2:hover {
+  -webkit-box-shadow: 5px 5px 15px 5px #f17420;
+  box-shadow: 5px 5px 15px 5px #e79110;
+  transform: translateY(-0.5rem);
+}
+.card-pic-2 {
+  margin-top: 20px;
+  margin-left: 180px;
+  width: 350px;
+  height: 400px;
+}
+@media only screen and (max-width: 600px) {
+  .single-card-2 {
+    width: auto;
+    height: auto;
+  }
+  .card-pic-2 {
+    margin-left: 35px;
+    width: 300px;
+    height: 300px;
+  }
+}

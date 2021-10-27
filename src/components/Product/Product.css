@@ -1,0 +1,7 @@
+.btn-modify {
+  transition: 500ms;
+}
+.btn-modify:hover {
+  background-color: rgb(118, 194, 4);
+  font-weight: 600;
+}

@@ -1,0 +1,32 @@
+.single-card-3 {
+  width: 500px;
+  height: 570px;
+  text-align: left;
+  margin: 20px;
+  border-radius: 15px;
+  transition: 300ms;
+}
+.card-text {
+  color: black !important;
+}
+.single-card-3:hover {
+  -webkit-box-shadow: 5px 5px 15px 5px #8effb9;
+  box-shadow: 5px 5px 15px 5px #8effb9;
+  transform: translateY(-0.5rem);
+}
+.card-pic-3 {
+  padding-top: 5px;
+  margin: auto;
+  width: 440px;
+  height: 440px;
+}
+@media only screen and (max-width: 600px) {
+  .single-card-3 {
+    width: auto;
+    height: auto;
+  }
+  .card-pic-3 {
+    width: 300px;
+    height: 300px;
+  }
+}

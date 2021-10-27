@@ -1,0 +1,10 @@
+.left {
+  text-align: justify;
+  text-justify: inter-word;
+  margin-right: 20px;
+}
+.right {
+  text-align: justify;
+  text-justify: inter-word;
+  margin-left: 20px;
+}
